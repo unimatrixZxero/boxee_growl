@@ -1,0 +1,6 @@
+=2008-10-11: VERSION 0.1.1=
+* [FIX] Service discovery: Program now exits with a descriptive error message when boxee web service cannot be reached
+
+
+=2008-10-11: VERSION 0.1=
+* [NEW] Initial Release
